@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = IHiDTestGem::VERSION
   spec.authors       = ["Jeremy Walker"]
   spec.email         = ["jez.walker@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "Foobar"
+  spec.summary       = "Barfoo"
   spec.homepage      = ""
   spec.license       = "MIT"
 
